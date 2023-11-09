@@ -14,3 +14,4 @@
 ---
 include:
   - board: bt75_v1
+    shield: settings_reset
