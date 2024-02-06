@@ -22,7 +22,9 @@
   };
 
 &sensors {
-     sensors = <&encoder_2>;
+    status = "okay";
+    sensors = <&encoder_2>;
+
 };
 
   keymap {
