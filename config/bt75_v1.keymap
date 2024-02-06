@@ -28,7 +28,7 @@
   #endif
   };
 
-  keymap \ {
+  keymap {
     compatible = "zmk,keymap";
     #ifdef ANSI
     default_layer {
