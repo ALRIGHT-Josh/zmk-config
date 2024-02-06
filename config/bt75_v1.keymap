@@ -21,6 +21,10 @@
   #endif
   };
 
+&sensors {
+     sensors = <&encoder_2>;
+};
+
   keymap {
     compatible = "zmk,keymap";
     #ifdef ANSI
