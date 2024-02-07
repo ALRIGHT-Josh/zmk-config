@@ -10,6 +10,8 @@
 };
 
 // &encoder_1 { status = "okay"; };
+// &encoder_2 { status = "disabled"; };
+// &encoder_3 { status = "disabled"; };
 
 #define ANSI
 //#define ISO
