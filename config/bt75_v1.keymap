@@ -6,10 +6,10 @@
 
 &sensors {
     status = "okay";
-    sensors = <&encoder_3>;
+    sensors = <&encoder_1>;
 };
 
-// &encoder_3 { status = "okay"; };
+// &encoder_1 { status = "okay"; };
 
 #define ANSI
 //#define ISO
